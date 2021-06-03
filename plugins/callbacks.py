@@ -76,7 +76,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/MRK-YT/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("🔙 𝙱𝚊𝚌𝚔", callback_data="help_data"),
