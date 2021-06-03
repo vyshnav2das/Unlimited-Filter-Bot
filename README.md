@@ -1,6 +1,5 @@
 # Unlimited Filter Bot
 
-
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
@@ -8,26 +7,27 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/MRK-YT/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MRK-YT/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/MRK-YT/Unlimited-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MRK-YT/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/Connect-Creater-skyblue?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MoTechYT](https://img.shields.io/badge/MoTechYT-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_Channel)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  ㅤㅤㅤㅤㅤㅤ  
+
+[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
 
 
-## An advanced Filter Bot with nearly unlimitted filters!
+### Deploy
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Unlimited-Filter-Bot)
 
 ### Features
 * Nearly unlimited filters
@@ -37,111 +37,17 @@
 * And all other features of a Filter Bot :D
 
 
-#### Deploy the bot and start adding your filters :)
-
-
-## How to use the bot
-* Add bot to your group with admin rights.
-
-* Add your filters :)
-
-
-## Bot Commands
-
-(You need to be an admin or Auth User in order to use these commands)
-
-> Filter Commands
-* `/add <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
-
-* `/del <filtername>`  -  Delete your filter.
-
-* `/delall`  -  Delete all filters from group. (Group Owner Only!)
-
-* `/viewfilters`  -  List all filters in chat.
-
-> Connection Commands
-* `/connect groupid`  -  Connects your group to PM. You can also simply use, `/connect` in groups.
-
-* `/connections`  -  Manage your connections. (only in PM)
-
-> Extras
-* `/status`  -  Shows current status of your bot (Auth User Only)
-
-* `/id`  -  Shows ID information
-
-* `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
-
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
-
-
-## Installation
-
-### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
-### Deploy in your vps
-```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
-```
-
-
 ## Configs
 
-* TG_BOT_TOKEN  - Get bot token from @BotFather
+APP.ID & API.HASH :-
+ [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://my.telegram.org/auth)
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+AUTH_USERS :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/MissRose_bot)
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+DATABASE_NAME :- Cluster0
 
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
+DATABASE_URI :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=mongodb)](https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_mobile&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12564980858&gclid=CjwKCAjwx6WDBhBQEiwA_dP8rcft9hLV9WxyBV4c1VMZfdmMVi9mifPxBPVbZDnhGBbQhs8rwqXQ8xoC6U8QAvD_BwE)
 
-* DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
+HEROKU_API_KEY :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=heroku)](https://dashboard.heroku.com/account)
 
-* DATABASE_NAME  - Your database name from mongoDB. Default will be 'Cluster0'
-
-* SAVE_USER  -  Give yes or no . Usefull for getting userinfo and total user counts. May reduce filter capacity :( .
-
-* HEROKU_API_KEY  -  To check dyno status. Go to https://dashboard.heroku.com/account , scroll down and press Reveal API
-
-
-### Optional - To set alternate Bot Commmands!
-( *Add required field as heroku var and give desired command as value. You can edit it in sample_config.py also!*)
-
-* ADD_FILTER_CMD  -  default will be 'add'
-
-* DELETE_FILTER_CMD  -  default will be 'del'
-
-* DELETE_ALL_CMD  -  default will be 'delall'
-
-* CONNECT_COMMAND  -  default will be 'connect'
-
-* DISCONNECT_COMMAND  -  default will be 'disconnect'
-
-EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
-
-## Credits
-
-<p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://docs.mongodb.com">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
+TG BOT TOKEN :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
