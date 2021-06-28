@@ -34,10 +34,11 @@ async def cb_handler(client, query):
                 ],
                 [
                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
-                   InlineKeyboardButton("🔊𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url="t.me/mo_tech_yt")
+                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176"),
+                   InlineKeyboardButton("👨‍💻Source", url="https://youtu.be/KrpqqNNLUSU")
                 ],
                 [
-                   InlineKeyboardButton("❣️𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚂𝚞𝚙𝚙𝚘𝚛𝚝❣️", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtu.be/KrpqqNNLUSU")
                 ]
             ]
         )
