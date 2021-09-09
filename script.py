@@ -2,15 +2,14 @@ class Script(object):
 
     START_MSG = """<b>👋Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+ഞാൻ ഒരു  𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ MALAYALAM CINEMA ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!! :) :)
 
-See <i>/help</i> for commands and more details.</b>
+See <i>@malayayalies</i> for Movies And WebSeries.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>I Cant help u sorry for that :)</i>
 
 
 <b>Basic Commands;</b>
@@ -48,13 +47,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @Mo_Tech_YT</b>
+<b>© @malayayalies</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : MT Unlimited Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : 𝐇𝐄𝐈𝐒𝐄𝐍𝐁𝐄𝐑𝐆</b>
 
-⭕️<b>Creater :</b> <b>@Mo_Tech_YT</b>    
+⭕️<b>Creater :</b> <b>@malayayalies</b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
